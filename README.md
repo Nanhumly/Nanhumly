@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nanhumly&include_all_commits=true&show_icons=true&theme=vue&count_private=true&hide_border=true" />
 
-<!--
-**Nanhumly/Nanhumly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Nanhumly
+- 🌱 I’m a rookie
+- 📧 Email: w1607616422@gmail.com
+- ✈️ Telegram: @Nanhumly
 
-Here are some ideas to get you started:
+### 🖥️ Environment
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%20-FFA500?style=flat-square&logo=Ubuntu&logoColor=FFFFFF&labelColor=FFA500)](https://ubuntu.com)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Phones
+[![Redmi Note 10Pro](https://img.shields.io/badge/Redmi%20Note%2010Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/redminote10pro)
+[![Xiaomi 6](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi6)
+[![Pixel 4](https://img.shields.io/badge/Pixel%204-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
