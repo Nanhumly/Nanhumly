@@ -13,4 +13,4 @@
 ### 📱 Phones
 [![Redmi Note 10Pro](https://img.shields.io/badge/Redmi%20Note%2010Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/redminote10pro)
 [![Xiaomi 6](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi6)
-[![Pixel 4](https://img.shields.io/badge/Pixel%204-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+[![Pixel 4](https://img.shields.io/badge/Pixel%204-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
